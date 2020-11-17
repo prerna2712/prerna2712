@@ -1,6 +1,6 @@
-### Konnichiwa !!! :bowing_woman:
+# Konnichiwa !!! :bowing_woman:
 ## I am Prerna
-# Welcome to my page
+### Welcome to my page
 
 <!--
 **prerna2712/prerna2712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
